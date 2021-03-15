@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Rocwo's extended Ogame
+// @name         Rocwo's-extended-Ogame
 // @namespace    https://github.com/ArdentLeKhey
 // @version      0.1
 // @description  Displays the exact bidding time (note that this time is randomized and that this script only displays a time as an indication)
